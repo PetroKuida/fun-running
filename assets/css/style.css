@@ -1,0 +1,21 @@
+/* Override default styling */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* Header */
+header {
+    background-color: aquamarine;
+}
+
+/* Main Content */
+main {
+    background-color: brown;
+}
+
+/* Footer */
+footer {
+    background-color: darkolivegreen;
+}
